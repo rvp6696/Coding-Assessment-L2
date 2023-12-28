@@ -4,4 +4,4 @@ The page features a header with the title "SELECT YOUR CHOICE" and a section ena
 
 Upon selecting a category, the fetchData function is invoked to retrieve product data from a JSON file hosted on Shopify's CDN. The data is subsequently filtered based on the selected category, and the relevant product information is dynamically rendered on screen for users.
 
-<a href="" target="_new"> <h3> Click here to View a Demo </h3> </a>
+<a href="https://rvp6696.github.io/Coding-Assessment-L2/" target="_new"> Click here to View a Demo </a>
